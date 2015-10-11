@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Server", "Server\Game_Server.csproj", "{0730DB64-8173-4788-962D-2F6776F9F516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{1C81666F-F211-4952-8FE5-EA3220E9918B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB_Config", "DB_Config", "{9E58D39A-7C98-4A24-93E3-56949B63D8C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{5369B1FA-24E7-4493-B9B7-F15168626F41}"
+	ProjectSection(SolutionItems) = preProject
+		Server\bin\Debug\DBConfig.ini = Server\bin\Debug\DBConfig.ini
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test_Server_Change_Log", "Test_Server_Change_Log", "{E2B3AA90-B64B-4BB4-A4A4-931A148DA9D2}"
+	ProjectSection(SolutionItems) = preProject
+		30-09-15.txt = 30-09-15.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DEV|Any CPU = DEV|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Server_Release|Any CPU = Server_Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0730DB64-8173-4788-962D-2F6776F9F516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0730DB64-8173-4788-962D-2F6776F9F516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0730DB64-8173-4788-962D-2F6776F9F516}.DEV|Any CPU.ActiveCfg = DEV|Any CPU
+		{0730DB64-8173-4788-962D-2F6776F9F516}.DEV|Any CPU.Build.0 = DEV|Any CPU
+		{0730DB64-8173-4788-962D-2F6776F9F516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0730DB64-8173-4788-962D-2F6776F9F516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0730DB64-8173-4788-962D-2F6776F9F516}.Server_Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0730DB64-8173-4788-962D-2F6776F9F516}.Server_Release|Any CPU.Build.0 = Debug|Any CPU
+		{1C81666F-F211-4952-8FE5-EA3220E9918B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C81666F-F211-4952-8FE5-EA3220E9918B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C81666F-F211-4952-8FE5-EA3220E9918B}.DEV|Any CPU.ActiveCfg = DEV|Any CPU
+		{1C81666F-F211-4952-8FE5-EA3220E9918B}.DEV|Any CPU.Build.0 = DEV|Any CPU
+		{1C81666F-F211-4952-8FE5-EA3220E9918B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C81666F-F211-4952-8FE5-EA3220E9918B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C81666F-F211-4952-8FE5-EA3220E9918B}.Server_Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C81666F-F211-4952-8FE5-EA3220E9918B}.Server_Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5369B1FA-24E7-4493-B9B7-F15168626F41} = {9E58D39A-7C98-4A24-93E3-56949B63D8C2}
+	EndGlobalSection
+EndGlobal

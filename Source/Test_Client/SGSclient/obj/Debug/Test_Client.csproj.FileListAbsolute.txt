@@ -34,3 +34,6 @@ M:\Test_Client\SGSclient\obj\Debug\Test_Client.Test_Client.resources
 M:\Test_Client\SGSclient\obj\Debug\Test_Client.Select_Server_UI.resources
 M:\Test_Client\SGSclient\obj\Debug\Test_Client.Properties.Resources.resources
 M:\Test_Client\SGSclient\obj\Debug\Test_Client.csproj.GenerateResource.Cache
+D:\GitHubVisualStudio\Project_107\All\Test_Client\SGSclient\bin\Debug\Test_Client.exe.config
+D:\GitHubVisualStudio\Project_107\All\Test_Client\SGSclient\obj\Debug\Test_Client.exe
+D:\GitHubVisualStudio\Project_107\All\Test_Client\SGSclient\obj\Debug\Test_Client.pdb
