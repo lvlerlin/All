@@ -1,0 +1,52 @@
+Read IP + Port from config file using INI Parser.
+[Servers]
+Server1=
+Server2=
+Server3=
+[Ports]
+Port1=
+Port2=
+Port3=
+
+Network with 3 servers to select from.
+- Server1 = Ethernet.
+- Server2 = WiFi.
+- Server3 = local(127.0.0.1)
+- Ports are all 9107.
+
+Error Handler added:
+000 : Password and/or Username length is not long enough
+001 : Indexes do not match
+002 : Login command is incorrect
+003 : Unknown Command
+004 : Login details are in correct
+Defualt : Unknown Error.
+
+Added Command Packet.
+- Command is used for general commands for now.
+To Server
+- @login u_name='####' a_pass='#####'
+From Server
+- Server will then send command to client which will then load the stats.
+- @load_Char0 slot=1 name=## level=## exp=## gold=### vit=### str=## int=## wis=## dex=## char=##
+- @load_Char1 slot=2 name=## level=## exp=## gold=### vit=### str=## int=## wis=## dex=## char=##
+- @load_Char2 slot=3 name=## level=## exp=## gold=### vit=### str=## int=## wis=## dex=## char=##
+- @load_Char3 slot=4 name=## level=## exp=## gold=### vit=### str=## int=## wis=## dex=## char=##
+- @load_Char4 slot=5 name=## level=## exp=## gold=### vit=### str=## int=## wis=## dex=## char=##
+
+
+
+TODO (CLIENT):
+1) Hide login Page.
+2) Show Select Character Page and Hide the login Page.
+3a) When Button is clicked display the values for the character that is selected.
+3b) Send packet to server with the selected index (1-4) (slot1,2,3,4)
+4) Send client to in-game state and hide Character select.
+5) Server status label.
+
+TODO (Server):
+1) Assign Account to the current users connection (should help speed things up)
+2a) Compare Select character packet to see if it's valid.
+2b) Send Error OR Packet to client.
+3) Connection Pulse (Check if online still).
+4) Handle Disconnections and remove from the list of users currently connected to the server.

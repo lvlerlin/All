@@ -1,0 +1,9 @@
+K:\SGSclientTCP\SGSclient\bin\Release\SGSclient.exe
+K:\SGSclientTCP\SGSclient\bin\Release\SGSclient.pdb
+K:\SGSclientTCP\SGSclient\obj\Release\SGSclient.SGSClient.resources
+K:\SGSclientTCP\SGSclient\obj\Release\SGSclient.LoginForm.resources
+K:\SGSclientTCP\SGSclient\obj\Release\SGSclient.Properties.Resources.resources
+K:\SGSclientTCP\SGSclient\obj\Release\SGSclientTCP.csproj.GenerateResource.Cache
+K:\SGSclientTCP\SGSclient\obj\Release\SGSclient.exe
+K:\SGSclientTCP\SGSclient\obj\Release\SGSclient.pdb
+K:\SGSclientTCP\SGSclient\obj\Release\SGSclientTCP.csprojResolveAssemblyReference.cache

@@ -1,0 +1,82 @@
+01/10/2015 17:06:09	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+01/10/2015 17:06:22	From Server : @login Accepted UserIndx=1
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:06:22	From Server : @login Accepted UserIndx=1
+01/10/2015 17:06:22	To Server : @loadChars UserIndx=1
+01/10/2015 17:06:23	From Server : @load_Char0 slot=3 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:06:23	From Server @load_Char0 slot=3 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+01/10/2015 17:06:23	DEBUG :  parma count : 23
+01/10/2015 17:12:00	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+01/10/2015 17:12:09	From Server : @login Accepted UserIndx=1
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:12:09	From Server : @login Accepted UserIndx=1
+01/10/2015 17:12:10	To Server : @loadChars UserIndx=1
+01/10/2015 17:12:10	From Server : @load_Char0 slot=3 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:12:10	From Server @load_Char0 slot=3 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+01/10/2015 17:12:11	DEBUG :  parma count : 23
+01/10/2015 17:17:28	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+01/10/2015 17:17:40	From Server : @login Accepted UserIndx=1
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:17:40	From Server : @login Accepted UserIndx=1
+01/10/2015 17:17:40	To Server : @loadChars UserIndx=1
+01/10/2015 17:17:41	From Server : @load_Char0 slot=3 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:17:41	From Server @load_Char0 slot=3 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+01/10/2015 17:17:41	DEBUG :  parma count : 23
+01/10/2015 17:18:00	To Server : @log_characters all
+Packet Type : Command
+Server : TEST_CLIENT
+01/10/2015 17:18:01	From Server : @ERROR
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:18:01	Command error @ERROR
+01/10/2015 17:18:02	To Server : 
+Packet Type : Message
+Server : TEST_CLIENT
+01/10/2015 17:18:02	From Server : TEST_CLIENT: 
+Packet Type : Message
+ServerName : TEST_CLIENT1
+01/10/2015 17:25:10	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+01/10/2015 17:25:19	From Server : @login Accepted UserIndx=1
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:25:20	From Server : @login Accepted UserIndx=1
+01/10/2015 17:25:20	To Server : @loadChars UserIndx=1
+01/10/2015 17:25:20	From Server : @ERROR 002
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:25:20	Command error @ERROR 002
+01/10/2015 17:27:54	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+01/10/2015 17:28:03	From Server : @login Accepted UserIndx=1
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:28:03	From Server : @login Accepted UserIndx=1
+01/10/2015 17:28:03	To Server : @loadChars UserIndx=1
+01/10/2015 17:28:04	From Server : @ERROR 002
+Packet Type : Command
+ServerName : SERVER
+01/10/2015 17:28:04	Command error @ERROR 002

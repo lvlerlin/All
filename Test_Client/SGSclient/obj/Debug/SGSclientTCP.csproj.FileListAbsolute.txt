@@ -1,0 +1,17 @@
+C:\Users\Pete\Downloads\tcpchat\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.exe
+C:\Users\Pete\Downloads\tcpchat\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.pdb
+C:\Users\Pete\Downloads\tcpchat\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+C:\Users\Pete\Downloads\tcpchat\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+C:\Users\Pete\Downloads\tcpchat\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+C:\Users\Pete\Downloads\tcpchat\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclientTCP.csproj.GenerateResource.Cache
+C:\Users\Pete\Downloads\tcpchat\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.exe
+C:\Users\Pete\Downloads\tcpchat\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.pdb
+K:\SGSclientTCP\SGSclient\obj\Debug\SGSclient.exe
+K:\SGSclientTCP\SGSclient\obj\Debug\SGSclient.pdb
+K:\SGSclientTCP\SGSclient\bin\Debug\SGSclient.exe
+K:\SGSclientTCP\SGSclient\bin\Debug\SGSclient.pdb
+K:\SGSclientTCP\SGSclient\obj\Debug\SGSclientTCP.csprojResolveAssemblyReference.cache
+K:\SGSclientTCP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+K:\SGSclientTCP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+K:\SGSclientTCP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+K:\SGSclientTCP\SGSclient\obj\Debug\SGSclientTCP.csproj.GenerateResource.Cache

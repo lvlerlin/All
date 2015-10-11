@@ -1,0 +1,354 @@
+07/10/2015 18:44:32	TO Server : pete107
+Command : @login u_name=pete107 a_pass=lordmoo09
+User : Command
+07/10/2015 18:44:32	From Server @load_Char0 slot=1 name=Pete107 level=1 exp=0 gold=0 vit=10 str=10 int=0 wis=0 dex=10 char=0
+@load_Char1 slot=2 name=lVlerlin level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=3 name=ZipIt level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=4 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+07/10/2015 18:44:32	DEBUG :  parma count : 89
+07/10/2015 18:44:32	Character Slot : 1
+07/10/2015 18:44:32	Character Name : Pete107
+07/10/2015 18:44:32	Character Level : 1
+07/10/2015 18:44:32	Character EXP : 0
+07/10/2015 18:44:32	Character Gold : 0
+07/10/2015 18:44:32	Character Vit : 10
+07/10/2015 18:44:32	Character Str : 10
+07/10/2015 18:44:32	Character Int : 0
+07/10/2015 18:44:32	Character Wis : 0
+07/10/2015 18:44:32	Character Dex : 10
+07/10/2015 18:44:32	Character Char : 0
+@load_Char1
+07/10/2015 18:44:32	Character Slot : 2
+07/10/2015 18:44:32	Character Name : lVlerlin
+07/10/2015 18:44:32	Character Level : 255
+07/10/2015 18:44:32	Character EXP : 0
+07/10/2015 18:44:32	Character Gold : 0
+07/10/2015 18:44:32	Character Vit : 1000
+07/10/2015 18:44:32	Character Str : 1000
+07/10/2015 18:44:32	Character Int : 1000
+07/10/2015 18:44:32	Character Wis : 1000
+07/10/2015 18:44:32	Character Dex : 1000
+07/10/2015 18:44:32	Character Char : 1000
+@load_Char2
+07/10/2015 18:44:32	Character Slot : 3
+07/10/2015 18:44:32	Character Name : ZipIt
+07/10/2015 18:44:32	Character Level : 255
+07/10/2015 18:44:32	Character EXP : 0
+07/10/2015 18:44:32	Character Gold : 0
+07/10/2015 18:44:32	Character Vit : 1000
+07/10/2015 18:44:32	Character Str : 1000
+07/10/2015 18:44:32	Character Int : 1000
+07/10/2015 18:44:32	Character Wis : 1000
+07/10/2015 18:44:32	Character Dex : 1000
+07/10/2015 18:44:32	Character Char : 1000
+@load_Char3
+07/10/2015 18:44:32	Character Slot : 4
+07/10/2015 18:44:32	Character Name : Pete108
+07/10/2015 18:44:32	Character Level : 255
+07/10/2015 18:44:32	Character EXP : 0
+07/10/2015 18:44:32	Character Gold : 0
+07/10/2015 18:44:32	Character Vit : 1000
+07/10/2015 18:44:32	Character Str : 10000
+07/10/2015 18:44:32	Character Int : 1000
+07/10/2015 18:44:32	Character Wis : 1000
+07/10/2015 18:44:32	Character Dex : 1000
+07/10/2015 18:44:32	Character Char : 1000
+
+07/10/2015 18:46:34	TO Server : pete107
+Command : @login u_name=pete107 a_pass=lordmoo09
+User : Command
+07/10/2015 18:46:34	From Server @load_Char0 slot=1 name=Pete107 level=1 exp=0 gold=0 vit=10 str=10 int=0 wis=0 dex=10 char=0
+@load_Char1 slot=2 name=lVlerlin level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=3 name=ZipIt level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=4 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+07/10/2015 18:46:34	DEBUG :  parma count : 89
+07/10/2015 18:46:34	Character Slot : 1
+07/10/2015 18:46:34	Character Name : Pete107
+07/10/2015 18:46:34	Character Level : 1
+07/10/2015 18:46:34	Character EXP : 0
+07/10/2015 18:46:34	Character Gold : 0
+07/10/2015 18:46:34	Character Vit : 10
+07/10/2015 18:46:34	Character Str : 10
+07/10/2015 18:46:34	Character Int : 0
+07/10/2015 18:46:34	Character Wis : 0
+07/10/2015 18:46:34	Character Dex : 10
+07/10/2015 18:46:34	Character Char : 0
+@load_Char1
+07/10/2015 18:46:34	Character Slot : 2
+07/10/2015 18:46:34	Character Name : lVlerlin
+07/10/2015 18:46:34	Character Level : 255
+07/10/2015 18:46:34	Character EXP : 0
+07/10/2015 18:46:34	Character Gold : 0
+07/10/2015 18:46:34	Character Vit : 1000
+07/10/2015 18:46:34	Character Str : 1000
+07/10/2015 18:46:34	Character Int : 1000
+07/10/2015 18:46:34	Character Wis : 1000
+07/10/2015 18:46:34	Character Dex : 1000
+07/10/2015 18:46:34	Character Char : 1000
+@load_Char2
+07/10/2015 18:46:34	Character Slot : 3
+07/10/2015 18:46:34	Character Name : ZipIt
+07/10/2015 18:46:34	Character Level : 255
+07/10/2015 18:46:34	Character EXP : 0
+07/10/2015 18:46:34	Character Gold : 0
+07/10/2015 18:46:34	Character Vit : 1000
+07/10/2015 18:46:34	Character Str : 1000
+07/10/2015 18:46:34	Character Int : 1000
+07/10/2015 18:46:34	Character Wis : 1000
+07/10/2015 18:46:34	Character Dex : 1000
+07/10/2015 18:46:34	Character Char : 1000
+@load_Char3
+07/10/2015 18:46:34	Character Slot : 4
+07/10/2015 18:46:34	Character Name : Pete108
+07/10/2015 18:46:34	Character Level : 255
+07/10/2015 18:46:34	Character EXP : 0
+07/10/2015 18:46:34	Character Gold : 0
+07/10/2015 18:46:34	Character Vit : 1000
+07/10/2015 18:46:34	Character Str : 10000
+07/10/2015 18:46:34	Character Int : 1000
+07/10/2015 18:46:34	Character Wis : 1000
+07/10/2015 18:46:34	Character Dex : 1000
+07/10/2015 18:46:34	Character Char : 1000
+
+07/10/2015 18:49:58	TO Server : pete107
+Command : @login u_name=pete107 a_pass=lordmoo09
+User : Command
+07/10/2015 18:50:02	TO Server : pete107
+Command : @login u_name=pete107 a_pass=lordmoo09
+User : Command
+07/10/2015 18:50:31	TO Server : pete107
+Command : @login u_name=pete107 a_pass=lordmoo09
+User : Command
+07/10/2015 18:50:31	From Server @load_Char0 slot=1 name=Pete107 level=1 exp=0 gold=0 vit=10 str=10 int=0 wis=0 dex=10 char=0
+@load_Char1 slot=2 name=lVlerlin level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=3 name=ZipIt level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=4 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+07/10/2015 18:50:31	DEBUG :  parma count : 89
+07/10/2015 18:50:31	Character Slot : 1
+07/10/2015 18:50:31	Character Name : Pete107
+07/10/2015 18:50:31	Character Level : 1
+07/10/2015 18:50:31	Character EXP : 0
+07/10/2015 18:50:31	Character Gold : 0
+07/10/2015 18:50:31	Character Vit : 10
+07/10/2015 18:50:31	Character Str : 10
+07/10/2015 18:50:31	Character Int : 0
+07/10/2015 18:50:31	Character Wis : 0
+07/10/2015 18:50:31	Character Dex : 10
+07/10/2015 18:50:31	Character Char : 0
+@load_Char1
+07/10/2015 18:50:31	Character Slot : 2
+07/10/2015 18:50:31	Character Name : lVlerlin
+07/10/2015 18:50:31	Character Level : 255
+07/10/2015 18:50:32	Character EXP : 0
+07/10/2015 18:50:32	Character Gold : 0
+07/10/2015 18:50:32	Character Vit : 1000
+07/10/2015 18:50:32	Character Str : 1000
+07/10/2015 18:50:32	Character Int : 1000
+07/10/2015 18:50:32	Character Wis : 1000
+07/10/2015 18:50:32	Character Dex : 1000
+07/10/2015 18:50:32	Character Char : 1000
+@load_Char2
+07/10/2015 18:50:32	Character Slot : 3
+07/10/2015 18:50:32	Character Name : ZipIt
+07/10/2015 18:50:32	Character Level : 255
+07/10/2015 18:50:32	Character EXP : 0
+07/10/2015 18:50:32	Character Gold : 0
+07/10/2015 18:50:32	Character Vit : 1000
+07/10/2015 18:50:32	Character Str : 1000
+07/10/2015 18:50:32	Character Int : 1000
+07/10/2015 18:50:32	Character Wis : 1000
+07/10/2015 18:50:32	Character Dex : 1000
+07/10/2015 18:50:32	Character Char : 1000
+@load_Char3
+07/10/2015 18:50:32	Character Slot : 4
+07/10/2015 18:50:32	Character Name : Pete108
+07/10/2015 18:50:32	Character Level : 255
+07/10/2015 18:50:32	Character EXP : 0
+07/10/2015 18:50:32	Character Gold : 0
+07/10/2015 18:50:32	Character Vit : 1000
+07/10/2015 18:50:32	Character Str : 10000
+07/10/2015 18:50:32	Character Int : 1000
+07/10/2015 18:50:32	Character Wis : 1000
+07/10/2015 18:50:32	Character Dex : 1000
+07/10/2015 18:50:32	Character Char : 1000
+
+07/10/2015 18:51:53	TO Server : pete107
+Command : @login u_name=pete107 a_pass=lordmoo09
+User : Command
+07/10/2015 18:51:53	From Server @load_Char0 slot=1 name=Pete107 level=1 exp=0 gold=0 vit=10 str=10 int=0 wis=0 dex=10 char=0
+@load_Char1 slot=2 name=lVlerlin level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=3 name=ZipIt level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=4 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+07/10/2015 18:51:53	DEBUG :  parma count : 89
+07/10/2015 18:51:53	Character Slot : 1
+07/10/2015 18:51:53	Character Name : Pete107
+07/10/2015 18:51:53	Character Level : 1
+07/10/2015 18:51:53	Character EXP : 0
+07/10/2015 18:51:53	Character Gold : 0
+07/10/2015 18:51:53	Character Vit : 10
+07/10/2015 18:51:53	Character Str : 10
+07/10/2015 18:51:53	Character Int : 0
+07/10/2015 18:51:53	Character Wis : 0
+07/10/2015 18:51:53	Character Dex : 10
+07/10/2015 18:51:53	Character Char : 0
+@load_Char1
+07/10/2015 18:51:53	Character Slot : 2
+07/10/2015 18:51:53	Character Name : lVlerlin
+07/10/2015 18:51:53	Character Level : 255
+07/10/2015 18:51:53	Character EXP : 0
+07/10/2015 18:51:53	Character Gold : 0
+07/10/2015 18:51:53	Character Vit : 1000
+07/10/2015 18:51:53	Character Str : 1000
+07/10/2015 18:51:53	Character Int : 1000
+07/10/2015 18:51:53	Character Wis : 1000
+07/10/2015 18:51:53	Character Dex : 1000
+07/10/2015 18:51:53	Character Char : 1000
+@load_Char2
+07/10/2015 18:51:53	Character Slot : 3
+07/10/2015 18:51:53	Character Name : ZipIt
+07/10/2015 18:51:53	Character Level : 255
+07/10/2015 18:51:53	Character EXP : 0
+07/10/2015 18:51:53	Character Gold : 0
+07/10/2015 18:51:53	Character Vit : 1000
+07/10/2015 18:51:53	Character Str : 1000
+07/10/2015 18:51:53	Character Int : 1000
+07/10/2015 18:51:53	Character Wis : 1000
+07/10/2015 18:51:53	Character Dex : 1000
+07/10/2015 18:51:53	Character Char : 1000
+@load_Char3
+07/10/2015 18:51:53	Character Slot : 4
+07/10/2015 18:51:53	Character Name : Pete108
+07/10/2015 18:51:53	Character Level : 255
+07/10/2015 18:51:53	Character EXP : 0
+07/10/2015 18:51:53	Character Gold : 0
+07/10/2015 18:51:53	Character Vit : 1000
+07/10/2015 18:51:53	Character Str : 10000
+07/10/2015 18:51:53	Character Int : 1000
+07/10/2015 18:51:53	Character Wis : 1000
+07/10/2015 18:51:53	Character Dex : 1000
+07/10/2015 18:51:53	Character Char : 1000
+
+07/10/2015 18:53:38	TO Server : pete107
+Command : @login u_name=pete107 a_pass=lordmoo09
+User : Command
+07/10/2015 18:53:38	From Server @load_Char0 slot=1 name=Pete107 level=1 exp=0 gold=0 vit=10 str=10 int=0 wis=0 dex=10 char=0
+@load_Char1 slot=2 name=lVlerlin level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=3 name=ZipIt level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=4 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+07/10/2015 18:53:38	DEBUG :  parma count : 89
+07/10/2015 18:53:38	Character Slot : 1
+07/10/2015 18:53:38	Character Name : Pete107
+07/10/2015 18:53:38	Character Level : 1
+07/10/2015 18:53:38	Character EXP : 0
+07/10/2015 18:53:38	Character Gold : 0
+07/10/2015 18:53:38	Character Vit : 10
+07/10/2015 18:53:38	Character Str : 10
+07/10/2015 18:53:38	Character Int : 0
+07/10/2015 18:53:38	Character Wis : 0
+07/10/2015 18:53:38	Character Dex : 10
+07/10/2015 18:53:38	Character Char : 0
+@load_Char1
+07/10/2015 18:53:38	Character Slot : 2
+07/10/2015 18:53:38	Character Name : lVlerlin
+07/10/2015 18:53:38	Character Level : 255
+07/10/2015 18:53:38	Character EXP : 0
+07/10/2015 18:53:38	Character Gold : 0
+07/10/2015 18:53:38	Character Vit : 1000
+07/10/2015 18:53:38	Character Str : 1000
+07/10/2015 18:53:39	Character Int : 1000
+07/10/2015 18:53:39	Character Wis : 1000
+07/10/2015 18:53:39	Character Dex : 1000
+07/10/2015 18:53:39	Character Char : 1000
+@load_Char2
+07/10/2015 18:53:39	Character Slot : 3
+07/10/2015 18:53:39	Character Name : ZipIt
+07/10/2015 18:53:39	Character Level : 255
+07/10/2015 18:53:39	Character EXP : 0
+07/10/2015 18:53:39	Character Gold : 0
+07/10/2015 18:53:39	Character Vit : 1000
+07/10/2015 18:53:39	Character Str : 1000
+07/10/2015 18:53:39	Character Int : 1000
+07/10/2015 18:53:39	Character Wis : 1000
+07/10/2015 18:53:39	Character Dex : 1000
+07/10/2015 18:53:39	Character Char : 1000
+@load_Char3
+07/10/2015 18:53:39	Character Slot : 4
+07/10/2015 18:53:39	Character Name : Pete108
+07/10/2015 18:53:39	Character Level : 255
+07/10/2015 18:53:39	Character EXP : 0
+07/10/2015 18:53:39	Character Gold : 0
+07/10/2015 18:53:39	Character Vit : 1000
+07/10/2015 18:53:39	Character Str : 10000
+07/10/2015 18:53:39	Character Int : 1000
+07/10/2015 18:53:39	Character Wis : 1000
+07/10/2015 18:53:39	Character Dex : 1000
+07/10/2015 18:53:39	Character Char : 1000
+
+07/10/2015 18:55:25	To Server : Test
+Packet Type : Message
+Server : TEST_CLIENT
+07/10/2015 19:19:49	TO Server : pete107
+Command : @login u_name=pete107 a_pass=lordmoo09
+User : Command
+07/10/2015 19:19:49	From Server @load_Char0 slot=1 name=Pete107 level=1 exp=0 gold=0 vit=10 str=10 int=0 wis=0 dex=10 char=0
+@load_Char1 slot=2 name=lVlerlin level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=3 name=ZipIt level=255 exp=0 gold=0 vit=1000 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=4 name=Pete108 level=255 exp=0 gold=0 vit=1000 str=10000 int=1000 wis=1000 dex=1000 char=1000
+
+07/10/2015 19:19:49	DEBUG :  parma count : 89
+07/10/2015 19:19:49	Character Slot : 1
+07/10/2015 19:19:49	Character Name : Pete107
+07/10/2015 19:19:49	Character Level : 1
+07/10/2015 19:19:49	Character EXP : 0
+07/10/2015 19:19:49	Character Gold : 0
+07/10/2015 19:19:49	Character Vit : 10
+07/10/2015 19:19:49	Character Str : 10
+07/10/2015 19:19:49	Character Int : 0
+07/10/2015 19:19:49	Character Wis : 0
+07/10/2015 19:19:49	Character Dex : 10
+07/10/2015 19:19:49	Character Char : 0
+@load_Char1
+07/10/2015 19:19:49	Character Slot : 2
+07/10/2015 19:19:49	Character Name : lVlerlin
+07/10/2015 19:19:49	Character Level : 255
+07/10/2015 19:19:49	Character EXP : 0
+07/10/2015 19:19:49	Character Gold : 0
+07/10/2015 19:19:49	Character Vit : 1000
+07/10/2015 19:19:49	Character Str : 1000
+07/10/2015 19:19:49	Character Int : 1000
+07/10/2015 19:19:49	Character Wis : 1000
+07/10/2015 19:19:49	Character Dex : 1000
+07/10/2015 19:19:49	Character Char : 1000
+@load_Char2
+07/10/2015 19:19:49	Character Slot : 3
+07/10/2015 19:19:49	Character Name : ZipIt
+07/10/2015 19:19:49	Character Level : 255
+07/10/2015 19:19:49	Character EXP : 0
+07/10/2015 19:19:49	Character Gold : 0
+07/10/2015 19:19:49	Character Vit : 1000
+07/10/2015 19:19:49	Character Str : 1000
+07/10/2015 19:19:49	Character Int : 1000
+07/10/2015 19:19:49	Character Wis : 1000
+07/10/2015 19:19:49	Character Dex : 1000
+07/10/2015 19:19:49	Character Char : 1000
+@load_Char3
+07/10/2015 19:19:49	Character Slot : 4
+07/10/2015 19:19:49	Character Name : Pete108
+07/10/2015 19:19:49	Character Level : 255
+07/10/2015 19:19:49	Character EXP : 0
+07/10/2015 19:19:49	Character Gold : 0
+07/10/2015 19:19:49	Character Vit : 1000
+07/10/2015 19:19:49	Character Str : 10000
+07/10/2015 19:19:50	Character Int : 1000
+07/10/2015 19:19:50	Character Wis : 1000
+07/10/2015 19:19:50	Character Dex : 1000
+07/10/2015 19:19:50	Character Char : 1000
+
+07/10/2015 19:20:29	To Server : 123
+Packet Type : Message
+Server : TEST_CLIENT

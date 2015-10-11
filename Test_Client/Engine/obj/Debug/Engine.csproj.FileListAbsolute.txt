@@ -1,0 +1,12 @@
+K:\SGSclientTCP\Engine\bin\Debug\Engine.dll
+K:\SGSclientTCP\Engine\bin\Debug\Engine.pdb
+K:\SGSclientTCP\Engine\obj\Debug\Engine.dll
+K:\SGSclientTCP\Engine\obj\Debug\Engine.pdb
+K:\Test_Client\Engine\bin\Debug\Engine.dll
+K:\Test_Client\Engine\bin\Debug\Engine.pdb
+K:\Test_Client\Engine\obj\Debug\Engine.dll
+K:\Test_Client\Engine\obj\Debug\Engine.pdb
+M:\Test_Client\Engine\bin\Debug\Engine.dll
+M:\Test_Client\Engine\bin\Debug\Engine.pdb
+M:\Test_Client\Engine\obj\Debug\Engine.dll
+M:\Test_Client\Engine\obj\Debug\Engine.pdb

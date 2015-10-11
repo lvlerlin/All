@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Client", "SGSclient\Test_Client.csproj", "{54844CFE-48B1-4762-B092-11F0471B058C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2805C65F-9FEE-4B43-90C2-3509EECDDB46} = {2805C65F-9FEE-4B43-90C2-3509EECDDB46}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{2805C65F-9FEE-4B43-90C2-3509EECDDB46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConfigFile", "ConfigFile", "{CAB63EE8-CFDB-45B8-83C6-56BEFF943AE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{C7D126D6-A5CD-4090-B131-929BE0D2483B}"
+	ProjectSection(SolutionItems) = preProject
+		SGSclient\bin\Debug\Config.ini = SGSclient\bin\Debug\Config.ini
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test_Client_Change_Log", "Test_Client_Change_Log", "{F0A32911-1D25-4FD2-BF59-84F9FDA162BF}"
+	ProjectSection(SolutionItems) = preProject
+		30-09-15 Pete.txt = 30-09-15 Pete.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54844CFE-48B1-4762-B092-11F0471B058C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54844CFE-48B1-4762-B092-11F0471B058C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54844CFE-48B1-4762-B092-11F0471B058C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54844CFE-48B1-4762-B092-11F0471B058C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2805C65F-9FEE-4B43-90C2-3509EECDDB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2805C65F-9FEE-4B43-90C2-3509EECDDB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2805C65F-9FEE-4B43-90C2-3509EECDDB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2805C65F-9FEE-4B43-90C2-3509EECDDB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C7D126D6-A5CD-4090-B131-929BE0D2483B} = {CAB63EE8-CFDB-45B8-83C6-56BEFF943AE3}
+	EndGlobalSection
+EndGlobal

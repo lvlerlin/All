@@ -1,0 +1,281 @@
+04/10/2015 16:59:15	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 16:59:28	From Server : @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char0 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char0 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char0 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 16:59:28	From Server @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char0 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char0 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char0 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+04/10/2015 16:59:28	DEBUG :  parma count : 89
+04/10/2015 17:01:40	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 17:01:50	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 17:01:50	Error 001 : Username and/or Password incorrect
+04/10/2015 17:01:51	Command error @ERROR 001
+04/10/2015 17:01:58	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 17:01:59	Error 001 : Username and/or Password incorrect
+04/10/2015 17:01:59	Command error @ERROR 001
+04/10/2015 17:02:25	From Server : @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 17:02:25	From Server @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+04/10/2015 17:02:25	DEBUG :  parma count : 89
+04/10/2015 17:05:28	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 17:05:40	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 17:05:40	Error 001 : Username and/or Password incorrect
+04/10/2015 17:05:40	Command error @ERROR 001
+04/10/2015 17:05:46	From Server : @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 17:05:46	From Server @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+04/10/2015 17:05:47	DEBUG :  parma count : 89
+04/10/2015 17:56:41	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 17:56:52	From Server : @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 17:56:52	From Server @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+04/10/2015 17:56:53	DEBUG :  parma count : 89
+04/10/2015 17:57:03	From Server : TEST_CLIENT connected
+Packet Type : Login
+ServerName : TEST_CLIENT1
+04/10/2015 17:57:04	From Server : TEST_CLIENT0*TEST_CLIENT1*
+Packet Type : List
+ServerName : 
+04/10/2015 17:57:12	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 17:57:12	Error 001 : Username and/or Password incorrect
+04/10/2015 17:57:13	Command error @ERROR 001
+04/10/2015 17:57:19	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 17:57:20	Error 001 : Username and/or Password incorrect
+04/10/2015 17:57:20	Command error @ERROR 001
+04/10/2015 17:57:54	From Server : TEST_CLIENT disconnected
+
+Packet Type : Logout
+ServerName : TEST_CLIENT2
+04/10/2015 17:58:07	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 19:02:27	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 19:02:41	From Server : @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:02:42	From Server @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+04/10/2015 19:02:43	DEBUG :  parma count : 89
+04/10/2015 19:02:51	From Server : TEST_CLIENT connected
+Packet Type : Login
+ServerName : TEST_CLIENT1
+04/10/2015 19:02:52	From Server : TEST_CLIENT0*TEST_CLIENT1*
+Packet Type : List
+ServerName : 
+04/10/2015 19:03:04	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:03:04	Error 001 : Username and/or Password incorrect
+04/10/2015 19:03:04	Command error @ERROR 001
+04/10/2015 19:03:13	From Server : TEST_CLIENT disconnected
+
+Packet Type : Logout
+ServerName : TEST_CLIENT2
+04/10/2015 19:03:22	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 19:03:32	From Server : @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:03:32	From Server @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+04/10/2015 19:03:32	DEBUG :  parma count : 89
+04/10/2015 19:03:39	From Server : TEST_CLIENT connected
+Packet Type : Login
+ServerName : TEST_CLIENT1
+04/10/2015 19:03:40	From Server : TEST_CLIENT0*TEST_CLIENT1*
+Packet Type : List
+ServerName : 
+04/10/2015 19:03:48	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:03:48	Error 001 : Username and/or Password incorrect
+04/10/2015 19:03:48	Command error @ERROR 001
+04/10/2015 19:03:57	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:03:57	Error 001 : Username and/or Password incorrect
+04/10/2015 19:03:57	Command error @ERROR 001
+04/10/2015 19:03:57	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:03:58	Error 001 : Username and/or Password incorrect
+04/10/2015 19:03:58	Command error @ERROR 001
+04/10/2015 19:03:58	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:03:59	Error 001 : Username and/or Password incorrect
+04/10/2015 19:03:59	Command error @ERROR 001
+04/10/2015 19:03:59	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:04:00	Error 001 : Username and/or Password incorrect
+04/10/2015 19:04:00	Command error @ERROR 001
+04/10/2015 19:04:01	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:04:01	Error 001 : Username and/or Password incorrect
+04/10/2015 19:04:01	Command error @ERROR 001
+04/10/2015 19:04:02	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:04:02	Error 001 : Username and/or Password incorrect
+04/10/2015 19:04:02	Command error @ERROR 001
+04/10/2015 19:04:03	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:04:03	Error 001 : Username and/or Password incorrect
+04/10/2015 19:04:03	Command error @ERROR 001
+04/10/2015 19:04:04	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:04:04	Error 001 : Username and/or Password incorrect
+04/10/2015 19:04:04	Command error @ERROR 001
+04/10/2015 19:04:54	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:04:54	Error 001 : Username and/or Password incorrect
+04/10/2015 19:04:54	Command error @ERROR 001
+04/10/2015 19:05:23	From Server : TEST_CLIENT disconnected
+
+Packet Type : Logout
+ServerName : TEST_CLIENT2
+04/10/2015 19:53:37	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 19:54:01	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 19:54:09	From Server : @ERROR 001
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:54:09	Error 001 : Username and/or Password incorrect
+04/10/2015 19:54:10	Command error @ERROR 001
+04/10/2015 19:54:29	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 19:54:38	From Server : @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:54:38	From Server @load_Char0 slot=1 name=0 level=Pete107 exp=1 gold=0 vit=0 str=10 int=10 wis=0 dex=0 char=10
+@load_Char1 slot=1 name=1 level=lVlerlin exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char2 slot=1 name=2 level=ZipIt exp=255 gold=0 vit=0 str=1000 int=1000 wis=1000 dex=1000 char=1000
+@load_Char3 slot=1 name=3 level=Pete108 exp=255 gold=0 vit=0 str=1000 int=10000 wis=1000 dex=1000 char=1000
+
+04/10/2015 19:54:39	DEBUG :  parma count : 89
+04/10/2015 19:55:03	From Server : TEST_CLIENT connected
+Packet Type : Login
+ServerName : TEST_CLIENT1
+04/10/2015 19:55:04	From Server : TEST_CLIENT0*TEST_CLIENT1*
+Packet Type : List
+ServerName : 
+04/10/2015 19:57:14	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 19:57:20	From Server : 
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 19:57:59	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 19:58:07	From Server : 
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 20:20:39	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 20:20:46	From Server : 
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 20:23:11	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 20:23:25	From Server : 
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 20:25:01	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 20:27:33	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 20:27:48	From Server : 
+Packet Type : Command
+ServerName : SERVER
+04/10/2015 20:28:13	From Server : TEST_CLIENT0*
+Packet Type : List
+ServerName : 
+04/10/2015 20:28:24	From Server : 
+Packet Type : Command
+ServerName : SERVER
